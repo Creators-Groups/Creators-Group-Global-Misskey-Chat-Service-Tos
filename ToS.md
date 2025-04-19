@@ -1,6 +1,4 @@
-# Creators-Group-Global-Misskey-Chat-Service-Tos
-Creators Group Global Misskey Chat Service ToS.
-# Creators Group コミュニティ利用規約
+# Creators Group Global Misskey Chat Service コミュニティ利用規約
 
 ## 第1条（目的）
 この利用規約は、Creators Group（以下、「当コミュニティ」）が提供するMisskeyインスタンス（以下、「当インスタンス」）および関連するサービス（以下、「当サービス」）の利用に関するルールを定めたものです。当インスタンスを利用するすべての方は、本規約を遵守する必要があります。
